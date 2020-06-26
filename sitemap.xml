@@ -3,699 +3,699 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kubedge.cloud/</loc>
+    <loc>/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/post/</loc>
+    <loc>/post/</loc>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/applications/children/kubeplay/</loc>
+    <loc>/pi_cluster/applications/children/kubeplay/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/devops/cicd/children/setup_dockerhub/</loc>
+    <loc>/devops/cicd/children/setup_dockerhub/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/devops/git_gerrit/children/setup_git/</loc>
+    <loc>/devops/git_gerrit/children/setup_git/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/nfv/golang/children/golang/</loc>
+    <loc>/nfv/golang/children/golang/</loc>
     <lastmod>2018-07-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/nfv/ovs/children/linux_bridging/</loc>
+    <loc>/nfv/ovs/children/linux_bridging/</loc>
     <lastmod>2018-07-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/os_installation/children/cluster_assembly/</loc>
+    <loc>/pi_cluster/os_installation/children/cluster_assembly/</loc>
     <lastmod>2018-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/docker_kubernetes/children/2018-07-03-a/</loc>
+    <loc>/pi_cluster/docker_kubernetes/children/2018-07-03-a/</loc>
     <lastmod>2018-07-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/devops/</loc>
+    <loc>/devops/</loc>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/devops/git_gerrit/</loc>
+    <loc>/devops/git_gerrit/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/nfv/ovs/</loc>
+    <loc>/nfv/ovs/</loc>
     <lastmod>2018-07-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/os_installation/</loc>
+    <loc>/pi_cluster/os_installation/</loc>
     <lastmod>2018-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/lte_to_5g/rpi_wifi_ap/</loc>
+    <loc>/lte_to_5g/rpi_wifi_ap/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/applications/children/kubernetes_dashboard/</loc>
+    <loc>/pi_cluster/applications/children/kubernetes_dashboard/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/lte_to_5g/lte_and_5g_core_simulation/children/kubesim_epc/</loc>
+    <loc>/lte_to_5g/lte_and_5g_core_simulation/children/kubesim_epc/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/lte_to_5g/lte_and_5g_ran_simulation/children/kubesim_lte/</loc>
+    <loc>/lte_to_5g/lte_and_5g_ran_simulation/children/kubesim_lte/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/devops/git_gerrit/children/setup_gerrit/</loc>
+    <loc>/devops/git_gerrit/children/setup_gerrit/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/devops/cicd/children/setup_travis-ci/</loc>
+    <loc>/devops/cicd/children/setup_travis-ci/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/advanced/children/2018-07-18-a/</loc>
+    <loc>/pi_cluster/advanced/children/2018-07-18-a/</loc>
     <lastmod>2018-07-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/nfv/golang/children/dpdk/</loc>
+    <loc>/nfv/golang/children/dpdk/</loc>
     <lastmod>2018-07-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/nfv/ovs/children/ovs/</loc>
+    <loc>/nfv/ovs/children/ovs/</loc>
     <lastmod>2018-07-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/nfv/ovs/children/odl/</loc>
+    <loc>/nfv/ovs/children/odl/</loc>
     <lastmod>2018-07-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/maintenance/children/2018-07-13-a/</loc>
+    <loc>/pi_cluster/maintenance/children/2018-07-13-a/</loc>
     <lastmod>2018-07-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/maintenance/children/2018-07-11-a/</loc>
+    <loc>/pi_cluster/maintenance/children/2018-07-11-a/</loc>
     <lastmod>2018-07-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/docker_kubernetes/children/2018-07-08-a/</loc>
+    <loc>/pi_cluster/docker_kubernetes/children/2018-07-08-a/</loc>
     <lastmod>2018-07-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/os_installation/children/master_pi/</loc>
+    <loc>/pi_cluster/os_installation/children/master_pi/</loc>
     <lastmod>2018-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/lte_to_5g/rpi_bluetooth_pan/</loc>
+    <loc>/lte_to_5g/rpi_bluetooth_pan/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/devops/cicd/</loc>
+    <loc>/devops/cicd/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/nfv/golang/</loc>
+    <loc>/nfv/golang/</loc>
     <lastmod>2018-07-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/advanced/children/os_64_bits/</loc>
+    <loc>/pi_cluster/advanced/children/os_64_bits/</loc>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/docker_kubernetes/</loc>
+    <loc>/pi_cluster/docker_kubernetes/</loc>
     <lastmod>2018-07-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/</loc>
+    <loc>/pi_cluster/</loc>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/applications/children/kubesim_blinkt/</loc>
+    <loc>/pi_cluster/applications/children/kubesim_blinkt/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/lte_to_5g/lte_and_5g_core_simulation/children/kubesim_5gc/</loc>
+    <loc>/lte_to_5g/lte_and_5g_core_simulation/children/kubesim_5gc/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/lte_to_5g/lte_and_5g_ran_simulation/children/kubesim_elte/</loc>
+    <loc>/lte_to_5g/lte_and_5g_ran_simulation/children/kubesim_elte/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/lte_to_5g/rpi_wifi_ap/children/setup_hostapd/</loc>
+    <loc>/lte_to_5g/rpi_wifi_ap/children/setup_hostapd/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/lte_to_5g/rpi_bluetooth_pan/children/setup_pan/</loc>
+    <loc>/lte_to_5g/rpi_bluetooth_pan/children/setup_pan/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/os_installation/children/setup_wpa_applicant/</loc>
+    <loc>/pi_cluster/os_installation/children/setup_wpa_applicant/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/nfv/golang/children/calico/</loc>
+    <loc>/nfv/golang/children/calico/</loc>
     <lastmod>2018-07-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/docker_kubernetes/children/2018-07-14-a/</loc>
+    <loc>/pi_cluster/docker_kubernetes/children/2018-07-14-a/</loc>
     <lastmod>2018-07-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/nfv/akraino/</loc>
+    <loc>/nfv/akraino/</loc>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/lte_to_5g/lte_and_5g_core_simulation/</loc>
+    <loc>/lte_to_5g/lte_and_5g_core_simulation/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/maintenance/</loc>
+    <loc>/pi_cluster/maintenance/</loc>
     <lastmod>2018-07-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/devops/hugo_githubpages/</loc>
+    <loc>/devops/hugo_githubpages/</loc>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/lte_to_5g/</loc>
+    <loc>/lte_to_5g/</loc>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/maintenance/children/2018-09-28-a/</loc>
+    <loc>/pi_cluster/maintenance/children/2018-09-28-a/</loc>
     <lastmod>2018-09-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/applications/children/prometheus/</loc>
+    <loc>/pi_cluster/applications/children/prometheus/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/lte_to_5g/lte_and_5g_ran_simulation/children/kubesim_nr/</loc>
+    <loc>/lte_to_5g/lte_and_5g_ran_simulation/children/kubesim_nr/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/lte_to_5g/rpi_wifi_ap/children/setup_dhcpd/</loc>
+    <loc>/lte_to_5g/rpi_wifi_ap/children/setup_dhcpd/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/lte_to_5g/rpi_bluetooth_pan/children/setup_dhcpd/</loc>
+    <loc>/lte_to_5g/rpi_bluetooth_pan/children/setup_dhcpd/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/os_installation/children/setup_dhcpd/</loc>
+    <loc>/pi_cluster/os_installation/children/setup_dhcpd/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/docker_kubernetes/children/2018-06-19-a/</loc>
+    <loc>/pi_cluster/docker_kubernetes/children/2018-06-19-a/</loc>
     <lastmod>2018-06-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/applications/</loc>
+    <loc>/pi_cluster/applications/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/devops/kubedgesdk/</loc>
+    <loc>/devops/kubedgesdk/</loc>
     <lastmod>2018-07-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/lte_to_5g/lte_and_5g_ran_simulation/</loc>
+    <loc>/lte_to_5g/lte_and_5g_ran_simulation/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/nfv/</loc>
+    <loc>/nfv/</loc>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/nfv/advanced/children/onap/</loc>
+    <loc>/nfv/advanced/children/onap/</loc>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/nfv/opnfv/</loc>
+    <loc>/nfv/opnfv/</loc>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/applications/children/nats/</loc>
+    <loc>/pi_cluster/applications/children/nats/</loc>
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/applications/children/grafana/</loc>
+    <loc>/pi_cluster/applications/children/grafana/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/docker_kubernetes/children/2018-07-12-a/</loc>
+    <loc>/pi_cluster/docker_kubernetes/children/2018-07-12-a/</loc>
     <lastmod>2018-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/os_installation/children/worker_pi/</loc>
+    <loc>/pi_cluster/os_installation/children/worker_pi/</loc>
     <lastmod>2018-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/advanced/</loc>
+    <loc>/pi_cluster/advanced/</loc>
     <lastmod>2018-07-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/devops/microservices/</loc>
+    <loc>/devops/microservices/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/lte_to_5g/nsa_and_sa/</loc>
+    <loc>/lte_to_5g/nsa_and_sa/</loc>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/applications/children/kibana/</loc>
+    <loc>/pi_cluster/applications/children/kibana/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/os_installation/children/ansible/</loc>
+    <loc>/pi_cluster/os_installation/children/ansible/</loc>
     <lastmod>2018-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/advanced/children/2018-06-30-a/</loc>
+    <loc>/pi_cluster/advanced/children/2018-06-30-a/</loc>
     <lastmod>2018-06-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/devops/advanced/</loc>
+    <loc>/devops/advanced/</loc>
     <lastmod>2018-07-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/lte_to_5g/advanced/</loc>
+    <loc>/lte_to_5g/advanced/</loc>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/advanced/children/2018-07-29-a/</loc>
+    <loc>/pi_cluster/advanced/children/2018-07-29-a/</loc>
     <lastmod>2018-07-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/maintenance/children/2018-07-02-a/</loc>
+    <loc>/pi_cluster/maintenance/children/2018-07-02-a/</loc>
     <lastmod>2018-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/os_installation/children/dongle/</loc>
+    <loc>/pi_cluster/os_installation/children/dongle/</loc>
     <lastmod>2018-06-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/nfv/advanced/</loc>
+    <loc>/nfv/advanced/</loc>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/about/</loc>
+    <loc>/about/</loc>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/advanced/children/2018-07-30-a/</loc>
+    <loc>/pi_cluster/advanced/children/2018-07-30-a/</loc>
     <lastmod>2018-07-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/advanced/children/2018-07-31-a/</loc>
+    <loc>/pi_cluster/advanced/children/2018-07-31-a/</loc>
     <lastmod>2018-07-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/pi_cluster/advanced/children/2018-08-01-a/</loc>
+    <loc>/pi_cluster/advanced/children/2018-08-01-a/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/devops/advanced/children/2018-07-16-a/</loc>
+    <loc>/devops/advanced/children/2018-07-16-a/</loc>
     <lastmod>2018-07-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/devops/kubedgesdk/children/2018-07-15-a/</loc>
+    <loc>/devops/kubedgesdk/children/2018-07-15-a/</loc>
     <lastmod>2018-07-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/devops/microservices/children/2018-07-01-a/</loc>
+    <loc>/devops/microservices/children/2018-07-01-a/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/devops/microservices/children/2018-06-29-a/</loc>
+    <loc>/devops/microservices/children/2018-06-29-a/</loc>
     <lastmod>2018-06-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/devops/microservices/children/2018-06-28-a/</loc>
+    <loc>/devops/microservices/children/2018-06-28-a/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/devops/advanced/children/2018-06-26-a/</loc>
+    <loc>/devops/advanced/children/2018-06-26-a/</loc>
     <lastmod>2018-06-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/devops/advanced/children/2018-06-25-a/</loc>
+    <loc>/devops/advanced/children/2018-06-25-a/</loc>
     <lastmod>2018-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/devops/kubedgesdk/children/2018-06-24-a/</loc>
+    <loc>/devops/kubedgesdk/children/2018-06-24-a/</loc>
     <lastmod>2018-06-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/devops/advanced/children/2018-06-23-a/</loc>
+    <loc>/devops/advanced/children/2018-06-23-a/</loc>
     <lastmod>2018-06-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/devops/microservices/children/2018-06-22-a/</loc>
+    <loc>/devops/microservices/children/2018-06-22-a/</loc>
     <lastmod>2018-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/devops/kubedgesdk/children/2018-06-21-a/</loc>
+    <loc>/devops/kubedgesdk/children/2018-06-21-a/</loc>
     <lastmod>2018-06-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/5gc/</loc>
+    <loc>/tags/5gc/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/64/</loc>
+    <loc>/tags/64/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/odl/</loc>
+    <loc>/tags/odl/</loc>
     <lastmod>2018-07-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/ansible/</loc>
+    <loc>/tags/ansible/</loc>
     <lastmod>2018-07-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/blinkt/</loc>
+    <loc>/tags/blinkt/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/calico/</loc>
+    <loc>/tags/calico/</loc>
     <lastmod>2018-07-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/cni/</loc>
+    <loc>/tags/cni/</loc>
     <lastmod>2018-07-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/dashboard/</loc>
+    <loc>/tags/dashboard/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/devops/</loc>
+    <loc>/tags/devops/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/dhcpd/</loc>
+    <loc>/tags/dhcpd/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/docker/</loc>
+    <loc>/tags/docker/</loc>
     <lastmod>2018-07-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/elte/</loc>
+    <loc>/tags/elte/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/epc/</loc>
+    <loc>/tags/epc/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/fluentd/</loc>
+    <loc>/tags/fluentd/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/github/</loc>
+    <loc>/tags/github/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/golang/</loc>
+    <loc>/tags/golang/</loc>
     <lastmod>2018-07-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/grafana/</loc>
+    <loc>/tags/grafana/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/helm/</loc>
+    <loc>/tags/helm/</loc>
     <lastmod>2018-07-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/hypriot/</loc>
+    <loc>/tags/hypriot/</loc>
     <lastmod>2018-07-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/istio/</loc>
+    <loc>/tags/istio/</loc>
     <lastmod>2018-07-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/java/</loc>
+    <loc>/tags/java/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/kubeadm/</loc>
+    <loc>/tags/kubeadm/</loc>
     <lastmod>2018-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/kubedge/</loc>
+    <loc>/tags/kubedge/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/kubernetes/</loc>
+    <loc>/tags/kubernetes/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/kustomize/</loc>
+    <loc>/tags/kustomize/</loc>
     <lastmod>2018-07-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/linux-bridging/</loc>
+    <loc>/tags/linux-bridging/</loc>
     <lastmod>2018-07-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/lte/</loc>
+    <loc>/tags/lte/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/nats/</loc>
+    <loc>/tags/nats/</loc>
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/nr/</loc>
+    <loc>/tags/nr/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/portieris/</loc>
+    <loc>/tags/portieris/</loc>
     <lastmod>2018-07-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/prometheus/</loc>
+    <loc>/tags/prometheus/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/python/</loc>
+    <loc>/tags/python/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/rpi/</loc>
+    <loc>/tags/rpi/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/security/</loc>
+    <loc>/tags/security/</loc>
     <lastmod>2018-07-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/sonobuoy/</loc>
+    <loc>/tags/sonobuoy/</loc>
     <lastmod>2018-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/test-infra/</loc>
+    <loc>/tags/test-infra/</loc>
     <lastmod>2018-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/testing/</loc>
+    <loc>/tags/testing/</loc>
     <lastmod>2018-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/vault/</loc>
+    <loc>/tags/vault/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/categories/wiki/</loc>
+    <loc>/categories/wiki/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/categories/wip/</loc>
+    <loc>/categories/wip/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/wpa_supplicant/</loc>
+    <loc>/tags/wpa_supplicant/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kubedge.cloud/tags/zuul/</loc>
+    <loc>/tags/zuul/</loc>
     <lastmod>2018-06-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

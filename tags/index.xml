@@ -2,372 +2,372 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on KUBEDGE&#39;s Blog</title>
-    <link>https://kubedge.cloud/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on KUBEDGE&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://kubedge.cloud/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>5gc</title>
-      <link>https://kubedge.cloud/tags/5gc/</link>
+      <link>/tags/5gc/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/5gc/</guid>
+      <guid>/tags/5gc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>64</title>
-      <link>https://kubedge.cloud/tags/64/</link>
+      <link>/tags/64/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/64/</guid>
+      <guid>/tags/64/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ODL</title>
-      <link>https://kubedge.cloud/tags/odl/</link>
+      <link>/tags/odl/</link>
       <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/odl/</guid>
+      <guid>/tags/odl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ansible</title>
-      <link>https://kubedge.cloud/tags/ansible/</link>
+      <link>/tags/ansible/</link>
       <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/ansible/</guid>
+      <guid>/tags/ansible/</guid>
       <description></description>
     </item>
     
     <item>
       <title>blinkt</title>
-      <link>https://kubedge.cloud/tags/blinkt/</link>
+      <link>/tags/blinkt/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/blinkt/</guid>
+      <guid>/tags/blinkt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>calico</title>
-      <link>https://kubedge.cloud/tags/calico/</link>
+      <link>/tags/calico/</link>
       <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/calico/</guid>
+      <guid>/tags/calico/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cni</title>
-      <link>https://kubedge.cloud/tags/cni/</link>
+      <link>/tags/cni/</link>
       <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/cni/</guid>
+      <guid>/tags/cni/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dashboard</title>
-      <link>https://kubedge.cloud/tags/dashboard/</link>
+      <link>/tags/dashboard/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/dashboard/</guid>
+      <guid>/tags/dashboard/</guid>
       <description></description>
     </item>
     
     <item>
       <title>devops</title>
-      <link>https://kubedge.cloud/tags/devops/</link>
+      <link>/tags/devops/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/devops/</guid>
+      <guid>/tags/devops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dhcpd</title>
-      <link>https://kubedge.cloud/tags/dhcpd/</link>
+      <link>/tags/dhcpd/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/dhcpd/</guid>
+      <guid>/tags/dhcpd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>docker</title>
-      <link>https://kubedge.cloud/tags/docker/</link>
+      <link>/tags/docker/</link>
       <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/docker/</guid>
+      <guid>/tags/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>elte</title>
-      <link>https://kubedge.cloud/tags/elte/</link>
+      <link>/tags/elte/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/elte/</guid>
+      <guid>/tags/elte/</guid>
       <description></description>
     </item>
     
     <item>
       <title>epc</title>
-      <link>https://kubedge.cloud/tags/epc/</link>
+      <link>/tags/epc/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/epc/</guid>
+      <guid>/tags/epc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fluentd</title>
-      <link>https://kubedge.cloud/tags/fluentd/</link>
+      <link>/tags/fluentd/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/fluentd/</guid>
+      <guid>/tags/fluentd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>github</title>
-      <link>https://kubedge.cloud/tags/github/</link>
+      <link>/tags/github/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/github/</guid>
+      <guid>/tags/github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://kubedge.cloud/tags/golang/</link>
+      <link>/tags/golang/</link>
       <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/golang/</guid>
+      <guid>/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>grafana</title>
-      <link>https://kubedge.cloud/tags/grafana/</link>
+      <link>/tags/grafana/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/grafana/</guid>
+      <guid>/tags/grafana/</guid>
       <description></description>
     </item>
     
     <item>
       <title>helm</title>
-      <link>https://kubedge.cloud/tags/helm/</link>
+      <link>/tags/helm/</link>
       <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/helm/</guid>
+      <guid>/tags/helm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hypriot</title>
-      <link>https://kubedge.cloud/tags/hypriot/</link>
+      <link>/tags/hypriot/</link>
       <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/hypriot/</guid>
+      <guid>/tags/hypriot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>istio</title>
-      <link>https://kubedge.cloud/tags/istio/</link>
+      <link>/tags/istio/</link>
       <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/istio/</guid>
+      <guid>/tags/istio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>java</title>
-      <link>https://kubedge.cloud/tags/java/</link>
+      <link>/tags/java/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/java/</guid>
+      <guid>/tags/java/</guid>
       <description></description>
     </item>
     
     <item>
       <title>kubeadm</title>
-      <link>https://kubedge.cloud/tags/kubeadm/</link>
+      <link>/tags/kubeadm/</link>
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/kubeadm/</guid>
+      <guid>/tags/kubeadm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>kubedge</title>
-      <link>https://kubedge.cloud/tags/kubedge/</link>
+      <link>/tags/kubedge/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/kubedge/</guid>
+      <guid>/tags/kubedge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>kubernetes</title>
-      <link>https://kubedge.cloud/tags/kubernetes/</link>
+      <link>/tags/kubernetes/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/kubernetes/</guid>
+      <guid>/tags/kubernetes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>kustomize</title>
-      <link>https://kubedge.cloud/tags/kustomize/</link>
+      <link>/tags/kustomize/</link>
       <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/kustomize/</guid>
+      <guid>/tags/kustomize/</guid>
       <description></description>
     </item>
     
     <item>
       <title>linux bridging</title>
-      <link>https://kubedge.cloud/tags/linux-bridging/</link>
+      <link>/tags/linux-bridging/</link>
       <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/linux-bridging/</guid>
+      <guid>/tags/linux-bridging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lte</title>
-      <link>https://kubedge.cloud/tags/lte/</link>
+      <link>/tags/lte/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/lte/</guid>
+      <guid>/tags/lte/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nats</title>
-      <link>https://kubedge.cloud/tags/nats/</link>
+      <link>/tags/nats/</link>
       <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/nats/</guid>
+      <guid>/tags/nats/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nr</title>
-      <link>https://kubedge.cloud/tags/nr/</link>
+      <link>/tags/nr/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/nr/</guid>
+      <guid>/tags/nr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>portieris</title>
-      <link>https://kubedge.cloud/tags/portieris/</link>
+      <link>/tags/portieris/</link>
       <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/portieris/</guid>
+      <guid>/tags/portieris/</guid>
       <description></description>
     </item>
     
     <item>
       <title>prometheus</title>
-      <link>https://kubedge.cloud/tags/prometheus/</link>
+      <link>/tags/prometheus/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/prometheus/</guid>
+      <guid>/tags/prometheus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>python</title>
-      <link>https://kubedge.cloud/tags/python/</link>
+      <link>/tags/python/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/python/</guid>
+      <guid>/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rpi</title>
-      <link>https://kubedge.cloud/tags/rpi/</link>
+      <link>/tags/rpi/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/rpi/</guid>
+      <guid>/tags/rpi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>security</title>
-      <link>https://kubedge.cloud/tags/security/</link>
+      <link>/tags/security/</link>
       <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/security/</guid>
+      <guid>/tags/security/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sonobuoy</title>
-      <link>https://kubedge.cloud/tags/sonobuoy/</link>
+      <link>/tags/sonobuoy/</link>
       <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/sonobuoy/</guid>
+      <guid>/tags/sonobuoy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>test-infra</title>
-      <link>https://kubedge.cloud/tags/test-infra/</link>
+      <link>/tags/test-infra/</link>
       <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/test-infra/</guid>
+      <guid>/tags/test-infra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>testing</title>
-      <link>https://kubedge.cloud/tags/testing/</link>
+      <link>/tags/testing/</link>
       <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/testing/</guid>
+      <guid>/tags/testing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vault</title>
-      <link>https://kubedge.cloud/tags/vault/</link>
+      <link>/tags/vault/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/vault/</guid>
+      <guid>/tags/vault/</guid>
       <description></description>
     </item>
     
     <item>
       <title>wpa_supplicant</title>
-      <link>https://kubedge.cloud/tags/wpa_supplicant/</link>
+      <link>/tags/wpa_supplicant/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/wpa_supplicant/</guid>
+      <guid>/tags/wpa_supplicant/</guid>
       <description></description>
     </item>
     
     <item>
       <title>zuul</title>
-      <link>https://kubedge.cloud/tags/zuul/</link>
+      <link>/tags/zuul/</link>
       <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kubedge.cloud/tags/zuul/</guid>
+      <guid>/tags/zuul/</guid>
       <description></description>
     </item>
     
